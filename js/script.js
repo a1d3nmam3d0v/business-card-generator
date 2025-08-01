@@ -33,4 +33,4 @@ const cardWebsite = document.querySelector(".card-website");
 
 websiteInput.addEventListener("input", function () {
 	cardWebsite.textContent = websiteInput.value;
-});	
+});
